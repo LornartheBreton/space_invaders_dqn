@@ -1,3 +1,4 @@
 ./checkpoints_space-invaders/
 ./.idea/
 ./__pycache__/
+*.zip
