@@ -1,0 +1,3 @@
+./checkpoints_space-invaders/
+./.idea/
+./__pycache__/
